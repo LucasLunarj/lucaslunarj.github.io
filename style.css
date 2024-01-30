@@ -25,6 +25,7 @@ h1 {
   height: 80%;
   width: 30%;
 }
+
 .dices {
   display: flex;
   justify-content: center;
@@ -47,4 +48,6 @@ button:hover {
 }
 button:active {
   background-color: #005c53;
+}
+@media screen {
 }
